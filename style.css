@@ -1,0 +1,9 @@
+div {
+    display: flex;
+    list-style: none;
+    font-size: 40px;
+}
+
+li {
+    margin-left: 10px;
+}
